@@ -8,7 +8,7 @@
 </a>
 <br>
 <p align="center">
-    <a href="https://discord.gg/5472rqdsk8"><img width="7%" alt="Discord" title="Discord" src="https://imgur.com/mgYXWUF"/></a>
+    <a href="https://discord.gg/5472rqdsk8"><img width="7%" alt="Discord" title="Discord" src="https://imgur.com/INRJRUh.png"/></a>
 </p>
 
 <br><br><br>
@@ -17,7 +17,7 @@
 > Davizinzkn
 ```
 
-<a href="#"><img align="left" src="https://imgur.com/mgYXWUF" width="230"/> 
+<a href="#"><img align="left" src="https://imgur.com/JRKB5oc.png" width="230"/> 
 
 
 ```lua
@@ -51,3 +51,4 @@ Hobbies: Cheating in Games, Sleep, Programming, video editing
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
 </a>
+
