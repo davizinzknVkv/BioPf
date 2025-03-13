@@ -4,7 +4,7 @@
 <br>
 <a href="https://github.com/davizinzknVkv">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src=""/>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com/demo/?color=F7222280&center=true&lines=Ola%2C+tudo+bem%3F+Me+chamo+davizinzkn;Seja+bem-vindo(a)+ao+meu+perfil"/>
 </a>
 <br>
 <p align="center">
